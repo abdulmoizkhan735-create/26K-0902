@@ -9,4 +9,9 @@
 - **C/C++**
 ## Projects
 - **Calculator** - Developed a basic calculator using C++.
-
+## Hobbies and Extracurriculars
+1. Reading
+   [x] Read English Book
+   [ ] Read Islamiat Book
+2. Play Cricket
+3. Gardening 
