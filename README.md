@@ -9,4 +9,3 @@
 - **C/C++**
 ## Projects
 - **Calculator** - Developed a basic calculator using C++.
-
